@@ -1,7 +1,7 @@
 # CmpE 272 Enterprise Software Platforms
-----------------------------------------------------------------------------------------------------------
+
 ## Project-Team-16
-----------------------------------------------------------------------------------------------------------
+
 #### Presented By :
 ##### Akshat Goel
 ##### Apurav Gupta
@@ -10,7 +10,7 @@
 
 
 ## Project Proposal 1:
------------------------------------------------------------------------------------------------------------
+
 **Smart Blinds - Home Automation Project. - APPROVED**
 ------------------------------------------------------------------------------------------------------------
 ## Abstract: 
@@ -28,7 +28,8 @@
 
 Here's a walkthrough of implemented user stories:
 
-<img  title='Video Walkthrough' width='' alt='Video Walkthrough' />
+#### Coming Soon !!!
+
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
