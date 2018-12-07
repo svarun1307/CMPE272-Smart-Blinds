@@ -10,6 +10,10 @@
 
 ## Kickstarter - https://www.kickstarter.com/projects/1906136286/147454390/preview?ref=pbuild_dashboard#project-preview
 
+<img src='https://github.com/SJSU272LabF18/Project-Team-16/blob/master/ks1.jpeg' title='Kickstarter' width='' alt='Kickstarter' />
+
+<img src='https://github.com/SJSU272LabF18/Project-Team-16/blob/master/ks2.jpeg' title='Kickstarter' width='' alt='Kickstarter' />
+
 
 ## Project Proposal 1:
 
