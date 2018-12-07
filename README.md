@@ -35,10 +35,10 @@
 
 Here's a walkthrough of implemented user stories:
 
-#### Coming Soon !!!
 
+GIF 
 
-GIF (https://imgur.com/gallery/jhHyot1).
+<img src='https://i.imgur.com/jhHyot1.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ## License
 
