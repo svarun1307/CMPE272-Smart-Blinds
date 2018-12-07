@@ -8,6 +8,8 @@
 ##### Hemang Behl
 ##### Varun Shrivastav
 
+## Kickstarter - https://www.kickstarter.com/projects/1906136286/147454390/preview?ref=pbuild_dashboard#project-preview
+
 
 ## Project Proposal 1:
 
@@ -23,6 +25,11 @@
 #### Servo Motor
 #### Light Sensor
 #### Client/Interface Module
+#### IR Sensor
+#### Lite-server
+#### Flask-server
+
+
 
 ## Video Walkthrough
 
@@ -31,7 +38,7 @@ Here's a walkthrough of implemented user stories:
 #### Coming Soon !!!
 
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+GIF (https://imgur.com/gallery/jhHyot1).
 
 ## License
 
