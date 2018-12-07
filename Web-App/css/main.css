@@ -1,0 +1,167 @@
+
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+html,body 
+{
+    margin: 0px !important;
+    padding: 0px !important;
+    position: relative;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+}
+
+div 
+{
+    font-family: 'Slabo 27px', serif;
+}
+
+
+.full-page-div
+{
+    position: absolute;
+    width : 100%;
+    height: 100%;
+    background: #e0dddd;
+}
+
+.boxes
+{
+    position: relative;
+    top: 10%;
+    width: 100%;
+    left: 0%;
+    height: 180px;
+    background: #FFF;
+    margin-top : 20px;
+    margin-bottom: 20px;
+    cursor: pointer;
+    box-shadow: 0 2px 5px 0 rgba(0,0,0,.16), 0 2px 10px 0 rgba(0,0,0,.12);
+}
+
+
+.box-containers
+{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    width: 80%;
+    cursor: pointer;
+    min-height: 200px;
+    transition:  all 0.5s;
+}
+
+
+.holdertext
+{
+    position: absolute;
+    top : 50%;
+    left : 50%;
+    transform: translate(-50%,-50%);
+    font-size : 30px;
+    width : 100%;
+    text-align: center;
+}
+
+
+.cover-divs
+{
+    position: absolute;
+    width : 100%;
+    height: 100%;
+    left: 100%;
+    transition: all 0.4s;
+    background: #e0dddd;
+
+}
+
+.cover-display
+{
+    transition: all 0.4s;
+    left : 0px;
+    z-index: 111111 !important;
+}
+
+
+.back-button 
+{
+    color : #333;
+    font-size: 18px;
+    position : absolute;
+    left : 15px;
+    top : 15px;
+    font-weight: bold;   
+}
+
+.battery-container
+{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+    width: 60%;
+    min-height: 300px;
+}
+
+.battery-box 
+{
+    width: 80px;
+    height: 50px;
+    background: transparent;
+    display: block;
+    margin: 0 auto;
+    margin-top: 3px;
+    margin-bottom: 3px;
+}
+
+.heading
+{
+    font-size: 27px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.box1
+{
+    border-top-left-radius: 8px !important;
+    border-top-right-radius: 8px !important;
+    background: rgba(255,255,255,0.7);
+}
+
+.box2,.box3
+{
+    background: rgba(255,255,255,0.7);
+}
+
+.box4
+{
+    border-bottom-left-radius: 8px !important;
+    border-bottom-right-radius: 8px !important;
+    background: rgba(255,255,255,0.7);
+}
+
+.selected-battery
+{
+    background: rgba(0,0,0,0.4);
+}
+
+
+.power-button
+{
+    position: absolute;
+    right: 15px;
+    top: 15px;
+    font-size: 35px;
+}
+
+
+
+
+
+
+
+
